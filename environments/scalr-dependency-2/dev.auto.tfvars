@@ -1,0 +1,1 @@
+environment = "dependency-2"
